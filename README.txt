@@ -14,7 +14,7 @@
 
 
 ====================================================================================================================================
-	    				THIS SCRIPT HAS BEEN DEVELOPED BY SCARECROW AND DARLINGSH
+	    				THIS SCRIPT HAS BEEN DEVELOPED BY SENPAISH AND DARLINGSH
 	THIS SCRIPT CAN BYPASS VOXILITY - HETZNER - PROXYPIPE - CLOUDFLARE - SUCURI AND A LOT OF ANTI-DDOS WEBSITE
 ====================================================================================================================================
 
